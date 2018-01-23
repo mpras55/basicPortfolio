@@ -198,6 +198,43 @@ a{
 	width: 70px;
 }
 
+#form_class{
+	width: 100%;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	color: #777777;
+	margin-top: 30px;
+}
+
+input[type=text] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	margin-bottom: 30px;
+}
+
+textarea{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	margin-bottom: 30px;
+}
+
+input[type=submit] {
+	width: 200px;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	margin-bottom: 30px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	text-align: center;
+}
+
 footer{
 	width: 100%;
 	clear: both;
